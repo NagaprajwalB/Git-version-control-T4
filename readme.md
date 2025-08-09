@@ -1,1 +1,1 @@
-echo "# Git-version-control-T4"
+# Git-version-control-T4
