@@ -6,6 +6,7 @@ This project demonstrates how to manage a DevOps project using Git best practice
 - Implement a branching strategy with `main`, `dev`, and `feature` branches.
 - Use pull requests for code review and merging.
 - Maintain a clean commit history with meaningful commit messages.
+- Document tasks and project details using markdown files.
 - Utilize `.gitignore` to exclude unnecessary files.
 - Tag releases for versioning.
 
